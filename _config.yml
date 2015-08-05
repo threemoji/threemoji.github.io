@@ -1,0 +1,22 @@
+# Site settings
+title: Threemoji
+email: your-email@domain.com
+url: https://threemoji.github.io
+description: "Threemoji is an anonymous chat app where emojis are your identity."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#7cb342'
+  links: '#FFFFFF'
+
+# Footer settings
+footer: Threemoji
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/threemoji/threemoji
+
+# Build settings
+markdown: kramdown
+permalink: pretty
